@@ -1,2 +1,2 @@
-# MMSDG
-Official Matlab code of MMSDG, which will be published once the paper is accepted.
+# MMDCL
+Official Matlab code of MMDCL, which will be published once the paper is accepted.
