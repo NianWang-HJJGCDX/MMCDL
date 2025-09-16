@@ -1,2 +1,2 @@
-# MMDCL
-Official Matlab code of MMDCL, which will be published once the paper is accepted.
+# DGFCSR
+Official Matlab code of DGFCSR, which will be published once the paper is accepted.
